@@ -150,4 +150,4 @@ path('area/',views.rectarea),
 
 # RESULT:
 
-The program is executed succesfully
+The program is executed succesfully.
